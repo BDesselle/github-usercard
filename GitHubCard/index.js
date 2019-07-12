@@ -1,12 +1,13 @@
+/* eslint-disable */
 /* GET Request */
-axios
+/* axios
   .get('https://api.github.com/users/BDesselle')
   .then(data => {
     console.log('Data received', data);
   })
   .catch(err => {
     console.log('Data not available');
-  });
+  }); */
 
 /* GET Request */
 axios
